@@ -1,2 +1,1 @@
-# ajs-homework-3.1
-Repo for Advanced JS course homework-3.1
+[![Build status](https://ci.appveyor.com/api/projects/status/vjsk4krckwpsa89c?svg=true)](https://ci.appveyor.com/project/solarlime/ajs-homework-3-1)
