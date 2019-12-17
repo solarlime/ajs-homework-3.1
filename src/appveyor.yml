@@ -11,7 +11,7 @@ cache: node_modules
 install:
   - npm install
 
-build: Script
+build: false
 
 build_script:
   - npm run build
